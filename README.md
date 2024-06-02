@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **smmislam/smmislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## RL Researcher
+Hello! I am currently pursuing my doctorate degree in Reinforcement Learning (RL). I am more interested in the model-based variants with a focus on task-agnostic policy learning.
