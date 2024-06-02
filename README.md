@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 [![Scholar][scholar-badge]][scholar-link]
 
 ## RL Researcher
-Hello! I am currently pursuing my doctorate degree in Reinforcement Learning (RL). I am more interested in the model-based variants with a focus on task-agnostic policy learning.
+Hello! I am currently pursuing my doctorate degree in Reinforcement Learning (RL). I am more interested in the model-based variants with a focus on task-agnostic behavior learning.
