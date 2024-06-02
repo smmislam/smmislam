@@ -28,5 +28,12 @@ Here are some ideas to get you started:
 [![Gmail][gmail-badge]][gmail-link]
 [![Scholar][scholar-badge]][scholar-link]
 
+
 ## RL Researcher
 Hello! I am currently pursuing my doctorate degree in Reinforcement Learning (RL). I am more interested in the model-based variants with a focus on task-agnostic behavior learning.
+
+##
+[stat-card]: https://github-readme-stats.vercel.app/api?username=smmislam&theme=synthwave&show_icons=true
+[stat-link]: https://github.com/smmislam
+[![GitHub Stats][stat-card]][stat-link]
+
